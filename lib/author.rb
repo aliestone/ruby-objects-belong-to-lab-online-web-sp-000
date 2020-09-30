@@ -7,5 +7,4 @@ class Author
     @post = post
   end
 
-
-  
+end
